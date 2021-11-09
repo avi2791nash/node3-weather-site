@@ -1,0 +1,2 @@
+This file was created by node.js
+. Msg has been appended to the notes.txt file
